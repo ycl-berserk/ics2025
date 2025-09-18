@@ -17,12 +17,11 @@
 - e) 1
 - f) 1
 
-##题目三
+## 题目三
 - a) `return !~x`
 - b) `return ~x`
 - c) `return (x & 0xFF)==0xFF`
 - d) `return (x & 0xFF)==0x00`
 
-##题目四
-
+## 题目四
 `(x&0x0000FFFF)|(y&0xFFFF0000)`
