@@ -25,3 +25,6 @@
 
 ## 题目四
 `(x&0x0000FFFF)|(y&0xFFFF0000)`
+
+### 草稿
+![草稿](./homework/draft1.jpg)
